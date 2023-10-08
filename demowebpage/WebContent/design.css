@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+*{
+	background-color: lightblue;
+	font-family: "Comic Sans MS", cursive;
+	font
+}
+
+.center-div {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; 
+            color: gray;
+        }
+.btn
+{
+	background-color: white;
+}
